@@ -2,6 +2,13 @@
 
 This project aims to classify audio files into different categories using Deep learning techniques. It includes a notebook for exploratory data analysis (EDA) and model building, as well as saved models and some test data.
 
+## UrbanSound8k Dataset
+
+The UrbanSound8k dataset is a popular dataset for audio classification tasks, containing 8732 labeled sound excerpts (<=4s) of urban sounds from 10 classes: air_conditioner, car_horn, children_playing, dog_bark, drilling, engine_idling, gun_shot, jackhammer, siren, and street_music. 
+
+You can download the UrbanSound8k dataset from [here](https://urbansounddataset.weebly.com/urbansound8k.html).
+
+
 ## Folder Structure
 
 The folder structure of the project is as follows:
